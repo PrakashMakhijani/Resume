@@ -1,0 +1,45 @@
+
+body{
+  background-color:lightblue;
+}
+
+hr{
+  border-width: 20px;
+  border-style: dotted none none none;
+  width: 30%;
+}
+
+h1{
+  text-align: center;
+  color: blue;
+}
+h2{
+  margin:50px 50px 50px 50px;
+  border: 5px solid black;
+  border-width: medium;
+  text-align: center;
+  color:red;
+  text-decoration: underline;
+  background-color: #05ffb0;
+
+}
+
+table{
+  border:5px black solid;
+  text-align: center;
+  background-color: lightgreen;
+}
+.prakash{
+  float:right;
+  text-decoration: Solid;
+}
+
+.sideBorder{
+  height: 20px;
+  border-width: 10px;
+  border-left-style: solid;
+  color: red;
+  padding-left: 10px;
+
+
+}
